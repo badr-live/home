@@ -1,0 +1,35 @@
+
+
+
+.download-button1 {
+padding: 5px 10px;
+background-color: #007BFF;
+color: white;
+text-decoration: none;
+border-radius: 5px;
+font-weight: bold;
+}
+/*-------------------------------------------*/
+.download-button2 {
+display: inline-block;
+padding: 5px 10px;
+margin: 5px;
+font-size: 8px;
+cursor: pointer;
+text-align: center;
+text-decoration: none;
+outline: none;
+color: #fff;
+background-color: #4CAF50;
+border: none;
+border-radius: 10px;
+box-shadow: 0 9px #999;
+}
+
+.download-button2:hover {background-color: #3e8e41}
+
+.download-button2:active {
+background-color: #3e8e41;
+box-shadow: 0 5px #666;
+transform: translateY(4px);
+}
